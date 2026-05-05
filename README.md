@@ -37,6 +37,11 @@ Abaixo estão listados os módulos desenvolvidos até o momento:
 - **Foco:** Classificação baseada em proximidade.
 - **Atividade III:** Classificação da qualidade de vinhos (dataset _Wine Quality_). Implementa normalização Min-Max, busca pelo $k$ ideal via validação cruzada e análise detalhada da Matriz de Confusão.
 
+### 4. Adaline ([`/Adaline`](./Adaline/atividade_iv.ipynb))
+
+- **Foco:** Redes neurais de camada única com aprendizado baseado na Regra Delta.
+- **Atividade IV:** Classificação de retornos de radar ionosférico (dataset _Ionosphere_). Inclui normalização Z-score, estudo exaustivo da taxa de aprendizagem ($\eta$) com gráficos de convergência, e análise de erro crítico para sistemas de monitoramento.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
